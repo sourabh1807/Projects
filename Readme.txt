@@ -1,4 +1,4 @@
-for accessing weather forecast data:
+for accessing tomorrow's weather forecast data:
 
 call using zip code of a city
 
